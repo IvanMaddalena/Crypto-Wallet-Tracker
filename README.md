@@ -7,7 +7,7 @@ Built with FastAPI, SQLite, SQLAlchemy, and CoinGecko API. 🚀
 
 ## 🔍 Features
 
-- 🪙 Track purchased cryptocurrencies with quantity, price, and exchange
+- 💰 Track purchased cryptocurrencies with quantity, price, and exchange
 - 💵 Real-time price updates via CoinGecko
 - 📊 Calculate profit/loss per asset
 - 📁 Export your wallet to CSV
